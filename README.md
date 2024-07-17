@@ -6,23 +6,23 @@
 
 **What the application does:**
 
-1.Processes conversational data to predict sentiment (positive, negative, neutral)
+1. Processes conversational data to predict sentiment (positive, negative, neutral)
 
-2.Uses NLP techniques to clean and prepare data
+2. Uses NLP techniques to clean and prepare data
 
-3.Extracts features using TF-IDF
+3. Extracts features using TF-IDF
 
-4.Trains an SVM classifier to perform sentiment analysis
+4. Trains an SVM classifier to perform sentiment analysis
 
 
 **Technologies used:**
 
-1.Python
+1. Python
 
-2.Jupyter Notebook
+2. Jupyter Notebook
 
-3.Natural Language Processing (NLP)
+3. Natural Language Processing (NLP)
 
-4.Machine Learning
+4. Machine Learning
 
-5.scikit-learn
+5. scikit-learn
