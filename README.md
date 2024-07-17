@@ -13,3 +13,16 @@
 3.Extracts features using TF-IDF
 
 4.Trains an SVM classifier to perform sentiment analysis
+
+
+**Technologies used:**
+
+1.Python
+
+2.Jupyter Notebook
+
+3.Natural Language Processing (NLP)
+
+4.Machine Learning
+
+5.scikit-learn
