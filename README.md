@@ -26,3 +26,10 @@
 4. Machine Learning
 
 5. scikit-learn
+
+
+**Challenges faced and future improvements:**
+
+**Challenge:** Handling diverse conversational data with varying contexts and sentiments.
+
+**Future Improvements:** Implement additional features such as multi-language support and real-time sentiment analysis.
